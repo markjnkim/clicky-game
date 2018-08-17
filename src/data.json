@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/baseball.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/dog.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/house.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/car.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/toothbrush.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/pen.jpg",
+    "clicked": false
+  }
+]
